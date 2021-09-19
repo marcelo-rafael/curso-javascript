@@ -1,76 +1,29 @@
-
- <div align="center">
-  <!-- LICENSE -->
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-<!-- LAST COMMIT -->
-<a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
-  </a>
-<!-- STARS -->
-  <a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/stargazers/master">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
-  </a>
-  <!-- FORKS -->
-  <a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/forks/master">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
-  </a>
-  <!-- AUTHOR -->
-  <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-  <!-- LANGUAGES -->
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-  <!-- REPO SIZE -->
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-  <!-- CONTRIBUTORS -->
- <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
-</div>
-
-
-
 <h4 align="center">
 🚧 Curso web moderno completo com javascript 2021 - em construção... 🚧
 </h4>
 
 ---
 
-#### 🚀 Sobre o Projeto
+#### 🚀 Sobre o curso
 
-O Letmeask é uma plataforma que tem a proposta de resolver problemas de acumulo de perguntas durante uma live, transmissão, etc. Com ela você pode criar salas privadas onde somente os que possuem o ID da sala podem acessar, os participantes podem fazer perguntas(desde que estejam logados com o Google), votar nas mesmas. Já o criador da sala pode demarcar as perguntas como respondidas, colocar foco, dentre outras funcionalidades.
+Domine Web com 15 Cursos + Projetos: Javascript Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
 
 ---
-
 
 #### 📋 Seções
 
-- [x] Como participante
-  - [x] Logar com sua conta do google.
-  - [x] Criar uma nova sala.
-  - [x] Fazer perguntas e enviar.
-  - [x] dar like nas perguntas
-  - [x] botão para copiar o código da sala.
-- [x] Como administrador da sala
-  - [x] Pode excluir pergunta.
-  - [x] Pode encerrar a sala.
-  - [x] Responder as perguntas.
+- [x] Seção 1: Introdução Curso Desenvolvimento Web
+- [x] Seção 2: Configuração do Ambiente
+- [x] Seção 3: Iniciando com Programação
+- [x] Seção 4: JavaScript: Fundamentos
 
 ---
 
-
-
-
 #### :gear: Tecnologias:
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Neste curso foi utilizado as seguintes tecnologias:
 
-- **[React.js](https://pt-br.reactjs.org/)**
-- **[TypeScript](https://www.typescriptlang.org/)**
-- **[Eslint](https://eslint.org/)**
-- **[Prettier](https://prettier.io/)**
-- **[Firebase Authentication](https://firebase.google.com/)**
-- **[Firebase Realtime Database](https://firebase.google.com/)**
-- **[Firebase](https://firebase.google.com/)**
-- **[classnames](https://www.npmjs.com/package/classnames)**
-- **[React Router Dom](https://reactrouter.com/web/guides/quick-start)**
-- **[node-sass](https://www.npmjs.com/package/node-sass)**
+- **[javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
 ---
 
