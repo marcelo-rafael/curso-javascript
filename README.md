@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img width="50%" alt="Letmeask Logo" title="letmeask" src="./src/assets/logo.svg" />
-</p>
-
  <div align="center">
   <!-- LICENSE -->
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
@@ -31,7 +27,7 @@
 
 
 <h4 align="center">
-🚧 NLW#6 - Trilha ReactJS - Letmeask 2.0 🚀 em construção... 🚧
+🚧 Curso web moderno completo com javascript 2021 - em construção... 🚧
 </h4>
 
 ---
@@ -42,13 +38,6 @@ O Letmeask é uma plataforma que tem a proposta de resolver problemas de acumulo
 
 ---
 
-#### 🚀 O que é Next Level Week?
-
-O [NLW](https://nextlevelweek.com/inscricao/6) é uma semana prática com muito código, desafios, network e com um único objetivo: levá-lo ao próximo nível.
-Através do método da [Rocketseat](https://rocketseat.com.br/), você aprenderá novas ferramentas, tecnologias e descobrirá hacks que irão impulsionar sua carreira.
-Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.
-
----
 
 #### 📋 Funcionalidades
 
