@@ -3,25 +3,25 @@
   <!-- LICENSE -->
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
 <!-- LAST COMMIT -->
-<a href="https://github.com/marcelo-rafael/nlw-06-letmeask/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
+<a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
   </a>
 <!-- STARS -->
-  <a href="https://github.com/marcelo-rafael/nlw-06-letmeask/stargazers/master">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
+  <a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/stargazers/master">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
   <!-- FORKS -->
-  <a href="https://github.com/marcelo-rafael/nlw-06-letmeask/forks/master">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
+  <a href="https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021/forks/master">
+    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
   <!-- AUTHOR -->
   <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- LANGUAGES -->
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- REPO SIZE -->
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- CONTRIBUTORS -->
- <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+ <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/curso-web-moderno-com-javascript-2021?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
 </div>
 
 
@@ -39,7 +39,7 @@ O Letmeask é uma plataforma que tem a proposta de resolver problemas de acumulo
 ---
 
 
-#### 📋 Funcionalidades
+#### 📋 Seções
 
 - [x] Como participante
   - [x] Logar com sua conta do google.
@@ -55,68 +55,7 @@ O Letmeask é uma plataforma que tem a proposta de resolver problemas de acumulo
 ---
 
 
-#### 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/MT8UU8XfDDCQ3LSrl4PXpE/Letmeask-(Copy)?node-id=0%3A1">
-  <img alt="Made by marcelo-rafael" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-Design feito por [Rebecca Gonzalez](https://dribbble.com/rebeccagonzalez)
-
----
-
-#### :computer:  Web
-
-<h4 align="center">
-  <img alt="Letmeask" title="Letmeask" src=".github/home.png" width="700px" />
-  <p align="center">Tela inicial - letmeask<p>
-</h4>
-<h4 align="center">
-  <img alt="Letmeask" title="Letmeask" src=".github/salas.png" width="700px" />
-  <p align="center">Tela de perguntas - letmeask<p>
-</h4>
-<h4 align="center">
-  <img alt="Letmeask" title="Letmeask" src=".github/admin.png" width="700px" />
-  <p align="center">Tela Admin - letmeask<p>
-</h4>
-
----
-
-#### 📱 Mobile
-
-<h4 align="center">
-  Em breve
-</h4>
-
----
-
-#### :crossed_swords: Desafios para melhorar a aplicação
-- [ ] Criar documentação
-    - [ ] Vídeo de exemplo
-    - [x] Readme-me incrível
-    - [ ] Tecnologias usadas
-    - [x] Setup do projeto
-    - [x] Funcionalidades
-    - [ ] Screenshot das páginas
-    - [x] Adicionar favicon
- - [ ] Melhorar estilos
-    - [ ] Alguns ajustes para tornar o estilo igual ao layout
-    - [ ] CSS com Styled Components e Mobile First
-    - [ ] Switch para alterar os themes
-    - [ ] Theme dark na aplicação
-    - [ ] Save theme no localStorage
-    - [ ] Criar modal de encerrar sala
-    - [ ] Toast como notificação
-  - [ ] Funcionalidades
-    - [ ] Adicionar funcionalidade PWA
-    - [ ] Adicionar Autenticação com o Github
-  - [ ] Testar a aplicação
-    - [ ] Testes com Jest;
-    - [ ] Storybook para os component;
-
----
 
 #### :gear: Tecnologias:
 
@@ -149,82 +88,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/marcelo-rafael/nlw-06-letmeask
+$ git clone https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw-06-letmeask
-```
-
-#### 📁 Rodando a Aplicação
-
-```bash
-# Instale as dependências
-$ yarn or npm install
-
-# Execute a Aplicação em Desenvolvimento
-$ yarn start or npm run start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
-```
-
-#### 📁 Configuração .ENV
-
-
-```bash
-#adicionado .env.example no projeto, lembrar de adicionar as variáveis de ambiente conforme o exemplo
-
-# FIREBASE
-
-REACT_APP_API_KEY=
-REACT_APP_AUTH_DOMAIN=
-REACT_APP_DATABASE_URL=
-REACT_APP_PROJECT_ID=
-REACT_APP_STORAGE_BUCKET=
-REACT_APP_MESSAGE_SENDING_ID=
-REACT_APP_APP_ID=
-
+$ cd curso-web-moderno-com-javascript-2021
 ```
 
 ---
-
-#### 🔎 Comandos
-
-- `start`: Executa a aplicação em `localhost:3000`
-- `build`: Cria a Build do projeto
-<!-- - `start`: Inicia um servidor simples com o código de produção -->
-
----
-
-<!--
-### 💾 Comandos Úteis
-
-```bash
-#Criação de um componente completo com (index.tsx / stories.tsx / styles.ts / test.tsx)
-$ yarn generate ComponentName
-
-#Rodar o Storybook
-$ yarn storybook
-
-#Rodar os testes
-$ yarn test
-
-```
--->
-
-<!--
-
-```
-# MONGODB
-MONGODB_URI=
-
-# API URLS
-BASE_URL=
-
-
-```
-
--->
 
 #### 💪 Como contribuir para o projeto
 
