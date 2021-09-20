@@ -4,14 +4,14 @@ let b = 3
 b += // b = b + a
 console.log(b)
 
-b -+ 4 // b = b - a
+b -= 4 // b = b - a
 console.log(b)
 
-b *+ 2 // b = b * a
+b *= 2 // b = b * a
 console.log(b)
 
-b /+ 2 // b = b / a
+b /= 2 // b = b / a
 console.log(b)
 
-b %+ 2 // b = b % a
+b %= 2 // b = b % a
 console.log(b)
