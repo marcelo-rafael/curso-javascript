@@ -16,6 +16,10 @@ Domine Web com 15 Cursos + Projetos: Javascript Angular React Next Vue Node HTML
 - [x] Seção 2: Configuração do Ambiente
 - [x] Seção 3: Iniciando com Programação
 - [x] Seção 4: JavaScript: Fundamentos
+- [x] Seção 5: JavaScript: Estruturas de Controle 
+- [x] Seção 6: JavaScript: Funções
+- [x] Seção 7: JavaScript: Objetos
+- [x] Seção 8: JavaScript: Array   
 
 ---
 
