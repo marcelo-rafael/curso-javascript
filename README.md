@@ -1,26 +1,26 @@
 <h4 align="center">
-🚧 Curso web moderno completo com javascript 2021 - em construção... 🚧
+🚧 JavaScript 🚧
 </h4>
 
 ---
 
 #### 🚀 Sobre o curso
 
-Domine Web com 15 Cursos + Projetos: Javascript Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL
-
+Estudando JavaScript do básico ao avançado
 ---
 
 #### 📋 Seções
-
-- [x] Seção 1: Introdução Curso Desenvolvimento Web
-- [x] Seção 2: Configuração do Ambiente
+- [x] Seção 1: Configuração do Ambiente
+- [x] Seção 2: Introdução Curso Desenvolvimento Web
 - [x] Seção 3: Iniciando com Programação
 - [x] Seção 4: JavaScript: Fundamentos
 - [x] Seção 5: JavaScript: Estruturas de Controle 
-- [x] Seção 6: JavaScript: Funções
-- [x] Seção 7: JavaScript: Objetos
-- [x] Seção 8: JavaScript: Array
-- [ ] Seção 9: projetos    
+- [x] Seção 6: JavaScript: Funções(avançado)
+- [x] Seção 7: JavaScript: Objetos e prototypes(avançado)
+- [x] Seção 8: JavaScript: Array(avançado)
+- [ ] Seção 9: Javascript Tooling e ES6 Modules - Módulos
+- [ ] Seção 9: Section 7: JavaScript Classes - Programação Orientada a Objetos - POO
+
 
 ---
 
@@ -46,10 +46,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/marcelo-rafael/curso-web-moderno-com-javascript-2021
+$ git clone https://github.com/marcelo-rafael/curso-javascript
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd curso-web-moderno-com-javascript-2021
+$ cd curso-javascript
 ```
 
 ---
