@@ -4,7 +4,7 @@ console.log(umaString)
 console.log(umaString[4])
 console.log(umaString[9])
 console.log(umaString[-1])
-console.log(umaString.charAt(6)) // o método charAt() retorna p caractere no indice especifico em uma string.
+console.log(umaString.charAt(6)) // o método charAt() retorna o caractere no indice especifico em uma string.
 console.log(umaString.concat(' em', ' um', ' lindo', ' dia')) //o método concat() retorna um novo array contendo todos os arrays ou valores passados como parâmetro.
 console.log(`${umaString} em um lindo dia.`)
 console.log(umaString.indexOf('o', 3)) // O método indexOf() retorna o primeiro índice em que o elemento pode ser encontrado no array, retorna -1 caso o mesmo não esteja presente.
